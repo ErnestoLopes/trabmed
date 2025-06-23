@@ -85,7 +85,7 @@ padding: 10px;
   box-shadow: none !important;
 }*/
 #header2{
-  background-image: url('/site/img/QUEM-SOMOS (1).png');
+  background-image: url('site/img/QUEM-SOMOS (1).png');
   background-size: cover;
   background-position: 100%;
   background-repeat: no-repeat;
