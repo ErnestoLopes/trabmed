@@ -104,15 +104,28 @@ padding: 10px;
 
   width: 100%;
 }
+.footer-links{  
+  padding: 50px;
+  border-left: 2px solid #e0e0e0;
+  margin-left: 30px;
+  padding-left: 30px;
+}
 #cll {
   min-height: 200px;
   align-items: center;
   display: flex;
 }
+.footer-top{
+  
+}
 .logo {
   height: 60px;
   width: auto;
   padding-right: 10px;
+}
+.log {
+  height: 300px;
+  width: auto;
 }
 #hebader{
   padding: 10px;
@@ -218,7 +231,10 @@ align-items: center;}
   margin: 0 auto;
 }
 
-.logo{padding-right: 100px;}
+.logo{padding-right: 100px;
+  width: 350px;
+  height: 120px;
+}
 
 /* Menu */
 #header a{text-decoration: none;}
